@@ -5,9 +5,9 @@
 
 
 ## About me
-First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Throughout high school, I learned python through videos and any book I could find. I was insatiable.
+First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. 
 
-This passion is still with me through my education at Sharif University of Technology. So, now I'm focusing on learning more about **artificial intelligence**. there is yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
+This passion is still with me through my education at Sharif University of Technology. So, now I'm focusing on learning more about **artificial intelligence**. There is yet more to learn, yet more problems to solve, and yet more to build.
 
 Thanks for your time and attention.
 
@@ -18,16 +18,11 @@ Thanks for your time and attention.
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-E5732C?style=for-the-badge&logo=Matlab&logoColor=white)
 
 ### Tools
 ![Tableau](https://img.shields.io/badge/Tableau-00ADD8?style=for-the-badge&logo=Tableau&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-05648B?style=for-the-badge&logo=octave&logoColor=white)
-![JMP](https://img.shields.io/badge/jmp-3370F9?style=for-the-badge&logo=jmp&logoColor=white)
 
 ### Other
 ![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
@@ -44,9 +39,9 @@ Thanks for your time and attention.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pegah-ardehkhani)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pegah-Ardehkhani)
+[![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pegaha)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/Pegah-Ardehkhani)
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Peg4h_A)
-[![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pegaha)
 
 
 <!--
