@@ -1,4 +1,4 @@
-# Hi! This is Pegah.
+# Hi!👋 This is Pegah.
 
 [![pegahardehkhani github stats](https://github-readme-stats.vercel.app/api?username=Pegah-Ardehkhani&theme=blue-green)](https://github.com/Pegah-Ardehkhani)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/Pegah-Ardehkhani)
