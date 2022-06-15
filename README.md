@@ -7,7 +7,7 @@
 ## About me
 First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. 
 
-This passion is still with me through my education at Sharif University of Technology. So, now I'm focusing on learning more about **artificial intelligence**. There is yet more to learn, yet more problems to solve, and yet more to build.
+This passion is still with me. So, now I'm focusing on learning more about **artificial intelligence**. There is yet more to learn, yet more problems to solve, and yet more to build.
 
 Thanks for your time and attention.
 
