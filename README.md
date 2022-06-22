@@ -29,7 +29,8 @@ Thanks for your time and attention.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-2E5BBF?style=for-the-badge&logo=Statsmodels&logoColor=white)
-
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Tools
 ![Tableau](https://img.shields.io/badge/Tableau-00ADD8?style=for-the-badge&logo=Tableau&logoColor=white)
