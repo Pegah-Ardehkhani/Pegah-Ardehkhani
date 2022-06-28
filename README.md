@@ -4,12 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/Pegah-Ardehkhani)
 
 
-## About me
-First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. 
+## About My Projects
 
-This passion is still with me. So, now I'm focusing on learning more about **artificial intelligence**. There is yet more to learn, yet more problems to solve, and yet more to build.
-
-Thanks for your time and attention.
+1. Logistic Regression from Scratch
 
 <img src="https://github.com/Pegah-Ardehkhani/Pegah-Ardehkhani/blob/main/pegah_ardehkhani.png" width="300">
 
