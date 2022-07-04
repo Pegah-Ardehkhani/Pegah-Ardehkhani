@@ -6,8 +6,6 @@
 
 ## About My Projects
 
-1. Logistic Regression from Scratch
-
 <img src="https://github.com/Pegah-Ardehkhani/Pegah-Ardehkhani/blob/main/pegah_ardehkhani.png" width="300">
 
 ## 🛠️ Skills
