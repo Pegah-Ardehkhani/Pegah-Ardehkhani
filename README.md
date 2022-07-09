@@ -1,7 +1,8 @@
 # Hi!👋 This is Pegah.
 
-[![pegahardehkhani github stats](https://github-readme-stats.vercel.app/api?username=Pegah-Ardehkhani&theme=blue-green)](https://github.com/Pegah-Ardehkhani)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/Pegah-Ardehkhani)
+[![pegahardehkhani github stats](https://github-readme-stats.vercel.app/api?username=Pegah-Ardehkhani&theme=highcontrast&show-icons=true&hide=prs,issues)](https://github.com/Pegah-Ardehkhani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=highcontrast)](https://github.com/Pegah-Ardehkhani)
 
 
 ## About My Projects
@@ -38,7 +39,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-218604?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 📈 Stats
-<img src="https://github-profile-trophy.vercel.app/?username=Pegah-Ardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pegah-Ardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories" alt="profile trophies" />
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pegah-ardehkhani)
@@ -46,17 +47,3 @@
 [![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pegaha)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://peg4h.a@gmail.com)
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Peg4h_A)
-
-
-<!--
-**pouyaardehkhani/PouyaArdehkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
