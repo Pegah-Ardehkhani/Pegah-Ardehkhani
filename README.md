@@ -39,7 +39,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-218604?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 📈 Stats
-<img src="https://github-profile-trophy.vercel.app/?username=Pegah-Ardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Commits,Repositories" alt="profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pegah-Ardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Commits,Repositories,Followers" alt="profile trophies" />
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pegah-ardehkhani)
