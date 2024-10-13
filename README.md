@@ -1,8 +1,8 @@
 # Hi!👋 This is Pegah.
 
-[![pegahardehkhani github stats](https://github-readme-stats.vercel.app/api?username=Pegah-Ardehkhani&theme=radical&show-icons=true&hide=prs,issues)](https://github.com/Pegah-Ardehkhani)
+[![pegahardehkhani github stats](https://github-readme-stats.vercel.app/api?username=Pegah-Ardehkhani&theme=github_dark&show-icons=true&hide=prs,issues)](https://github.com/Pegah-Ardehkhani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=radical)](https://github.com/Pegah-Ardehkhani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pegah-Ardehkhani&layout=compact&langs_count=10&theme=github_dark)](https://github.com/Pegah-Ardehkhani)
 
 
 ## About My Projects
