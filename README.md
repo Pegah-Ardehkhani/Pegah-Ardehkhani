@@ -7,9 +7,6 @@
 
 ## About My Projects
 
-<img src="https://github.com/Pegah-Ardehkhani/Pegah-Ardehkhani/blob/main/pegah_ardehkhani.png" width="300">
-
-
 #### Optimization and Operations Research
 
 - [Multi-Criteria-Decision-Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
