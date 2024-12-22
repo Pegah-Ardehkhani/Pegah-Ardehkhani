@@ -14,6 +14,17 @@
 - [Combinatorial Optimization](https://github.com/Pegah-Ardehkhani/Combinatorial-Optimization)
 - [Simplex from Scratch](https://github.com/Pegah-Ardehkhani/Simplex-from-Scratch)
 
+#### Machine Learning and Artificial Intelligence
+
+-[]()
+
+#### Deep Learning and Neural Networks
+
+- []()
+
+#### Miscellaneous
+
+- []()
 
 ## 🛠️ Skills
 
