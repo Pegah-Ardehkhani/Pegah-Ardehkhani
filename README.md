@@ -7,6 +7,7 @@
 
 ## 📝 About My Projects
 
+- [Statistics-and-Probability-in-Python](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
 #### Optimization and Operations Research
 
 - [Multi Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
@@ -16,7 +17,11 @@
 
 #### Machine Learning and Artificial Intelligence
 
--[]()
+- [Shortest-Path-using-Reinforcement-Learning](https://github.com/Pegah-Ardehkhani/Shortest-Path-using-Reinforcement-Learning)
+- [Reinforcement-Learning-Algorithms-from-Scratch](https://github.com/Pegah-Ardehkhani/Reinforcement-Learning-Algorithms-from-Scratch)
+- [Customer-Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
+- [Air-Passenger-Demand-Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
+- [Predictive-Maintenance-Using-ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
 
 #### Deep Learning and Neural Networks
 
@@ -24,7 +29,7 @@
 
 #### Miscellaneous
 
-- []()
+- [Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain](https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain)
 
 ## 🛠️ Skills
 
