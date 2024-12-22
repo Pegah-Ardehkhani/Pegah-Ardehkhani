@@ -16,17 +16,17 @@
 
 #### Machine Learning and Artificial Intelligence
 
-- [Shortest-Path-using-Reinforcement-Learning](https://github.com/Pegah-Ardehkhani/Shortest-Path-using-Reinforcement-Learning)
-- [Reinforcement-Learning-Algorithms-from-Scratch](https://github.com/Pegah-Ardehkhani/Reinforcement-Learning-Algorithms-from-Scratch)
-- [Customer-Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
-- [Air-Passenger-Demand-Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
-- [Predictive-Maintenance-Using-ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
-- [Customer-Churn-Prediction-and-Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
-- [Flight-Price-EDA-and-Prediction](https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction)
-- [Corona-Virus-Forecasting-and-Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
-- [Emojify-Texts](https://github.com/Pegah-Ardehkhani/Emojify-Texts)
-- [Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction](https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction)
-- [LogisticRegression-From-Scratch](https://github.com/Pegah-Ardehkhani/LogisticRegression-From-Scratch)
+- [Shortest Path using Reinforcement Learning](https://github.com/Pegah-Ardehkhani/Shortest-Path-using-Reinforcement-Learning)
+- [Reinforcement Learning Algorithms from Scratch](https://github.com/Pegah-Ardehkhani/Reinforcement-Learning-Algorithms-from-Scratch)
+- [Customer Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
+- [Customer Churn Prediction-and-Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
+- [Air Passenger Demand Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
+- [Predictive Maintenance Using ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
+- [Flight Price EDA and Prediction](https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction)
+- [Corona Virus Forecasting and Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
+- [Emojify Texts](https://github.com/Pegah-Ardehkhani/Emojify-Texts)
+- [Corona Virus Tweets Sentiment Analysis and Prediction](https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction)
+- [LogisticRegression From Scratch](https://github.com/Pegah-Ardehkhani/LogisticRegression-From-Scratch)
 
 #### Deep Learning and Neural Networks
 
