@@ -7,7 +7,6 @@
 
 ## 📝 About My Projects
 
-- [Statistics-and-Probability-in-Python](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
 #### Optimization and Operations Research
 
 - [Multi Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
@@ -43,6 +42,7 @@
 
 #### Miscellaneous
 
+- [Statistics-and-Probability-in-Python](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
 - [Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain](https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain)
 - [Python-Tutorial-Plus-Questions](https://github.com/Pegah-Ardehkhani/Python-Tutorial-Plus-Questions)
 - [R-Tutorial](https://github.com/Pegah-Ardehkhani/R-Tutorial)
