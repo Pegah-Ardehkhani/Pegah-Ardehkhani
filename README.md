@@ -42,10 +42,10 @@
 
 #### Miscellaneous
 
-- [Statistics-and-Probability-in-Python](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
-- [Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain](https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain)
-- [Python-Tutorial-Plus-Questions](https://github.com/Pegah-Ardehkhani/Python-Tutorial-Plus-Questions)
-- [R-Tutorial](https://github.com/Pegah-Ardehkhani/R-Tutorial)
+- [Statistics and Probability in Python](https://github.com/Pegah-Ardehkhani/Statistics-and-Probability-in-Python)
+- [Bullwhip Simulation in a Multi-Tier Supply Chain](https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain)
+- [Python Tutorial Plus Questions](https://github.com/Pegah-Ardehkhani/Python-Tutorial-Plus-Questions)
+- [R Tutorial](https://github.com/Pegah-Ardehkhani/R-Tutorial)
 - [WeatherApp](https://github.com/Pegah-Ardehkhani/WeatherApp)
 
 ## 🛠️ Skills
