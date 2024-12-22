@@ -21,6 +21,7 @@
 - [Customer Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
 - [Customer Churn Prediction-and-Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
 - [Air Passenger Demand Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
+- [Cancer Patients Survival Analysis](https://github.com/Pegah-Ardehkhani/Cancer-Patients-Survival-Analysis)
 - [Predictive Maintenance Using ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
 - [Flight Price EDA and Prediction](https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction)
 - [Corona Virus Forecasting and Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
@@ -30,15 +31,14 @@
 
 #### Deep Learning and Neural Networks
 
-- [Neural-Style-Transfer](https://github.com/Pegah-Ardehkhani/Neural-Style-Transfer)
-- [Speech-Emotion-Recognition](https://github.com/Pegah-Ardehkhani/Speech-Emotion-Recognition)
-- [Cancer-Patients-Survival-Analysis](https://github.com/Pegah-Ardehkhani/Cancer-Patients-Survival-Analysis)
 - [ActTensor](https://github.com/pouyaardehkhani/ActTensor)
-- [Brain-MRI-Segmentation](https://github.com/Pegah-Ardehkhani/Brain-MRI-Segmentation)
-- [One-Hidden-Layer-Neural-Network-From-Scratch](https://github.com/Pegah-Ardehkhani/One-Hidden-Layer-Neural-Network-From-Scratch)
-- [CNN-From-Scratch](https://github.com/Pegah-Ardehkhani/CNN-From-Scratch)
-- [Deep-Neural-Network-From-Scratch](https://github.com/Pegah-Ardehkhani/Deep-Neural-Network-From-Scratch)
-- [Pneumonia-Diagnosis-in-Chest-X-ray-Images](https://github.com/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images)
+- [Pneumonia Diagnosis in Chest X-ray Images](https://github.com/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images)
+- [Brain MRI Segmentation](https://github.com/Pegah-Ardehkhani/Brain-MRI-Segmentation)
+- [Neural Style Transfer](https://github.com/Pegah-Ardehkhani/Neural-Style-Transfer)
+- [Speech Emotion Recognition](https://github.com/Pegah-Ardehkhani/Speech-Emotion-Recognition)
+- [Deep Neural Network From Scratch](https://github.com/Pegah-Ardehkhani/Deep-Neural-Network-From-Scratch)
+- [One Hidden Layer Neural Network From Scratch](https://github.com/Pegah-Ardehkhani/One-Hidden-Layer-Neural-Network-From-Scratch)
+- [CNN From Scratch](https://github.com/Pegah-Ardehkhani/CNN-From-Scratch)
 
 #### Miscellaneous
 
