@@ -22,14 +22,31 @@
 - [Customer-Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
 - [Air-Passenger-Demand-Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
 - [Predictive-Maintenance-Using-ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
+- [Customer-Churn-Prediction-and-Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
+- [Flight-Price-EDA-and-Prediction](https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction)
+- [Corona-Virus-Forecasting-and-Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
+- [Emojify-Texts](https://github.com/Pegah-Ardehkhani/Emojify-Texts)
+- [Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction](https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction)
+- [LogisticRegression-From-Scratch](https://github.com/Pegah-Ardehkhani/LogisticRegression-From-Scratch)
 
 #### Deep Learning and Neural Networks
 
-- []()
+- [Neural-Style-Transfer](https://github.com/Pegah-Ardehkhani/Neural-Style-Transfer)
+- [Speech-Emotion-Recognition](https://github.com/Pegah-Ardehkhani/Speech-Emotion-Recognition)
+- [Cancer-Patients-Survival-Analysis](https://github.com/Pegah-Ardehkhani/Cancer-Patients-Survival-Analysis)
+- [ActTensor](https://github.com/pouyaardehkhani/ActTensor)
+- [Brain-MRI-Segmentation](https://github.com/Pegah-Ardehkhani/Brain-MRI-Segmentation)
+- [One-Hidden-Layer-Neural-Network-From-Scratch](https://github.com/Pegah-Ardehkhani/One-Hidden-Layer-Neural-Network-From-Scratch)
+- [CNN-From-Scratch](https://github.com/Pegah-Ardehkhani/CNN-From-Scratch)
+- [Deep-Neural-Network-From-Scratch](https://github.com/Pegah-Ardehkhani/Deep-Neural-Network-From-Scratch)
+- [Pneumonia-Diagnosis-in-Chest-X-ray-Images](https://github.com/Pegah-Ardehkhani/Pneumonia-Diagnosis-in-Chest-X-ray-Images)
 
 #### Miscellaneous
 
 - [Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain](https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain)
+- [Python-Tutorial-Plus-Questions](https://github.com/Pegah-Ardehkhani/Python-Tutorial-Plus-Questions)
+- [R-Tutorial](https://github.com/Pegah-Ardehkhani/R-Tutorial)
+- [WeatherApp](https://github.com/Pegah-Ardehkhani/WeatherApp)
 
 ## 🛠️ Skills
 
