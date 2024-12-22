@@ -9,6 +9,15 @@
 
 <img src="https://github.com/Pegah-Ardehkhani/Pegah-Ardehkhani/blob/main/pegah_ardehkhani.png" width="300">
 
+
+#### Optimization and Operations Research
+
+- [Multi-Criteria-Decision-Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
+- [Optimization-Problems-and-Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
+- [Combinatorial-Optimization ](https://github.com/Pegah-Ardehkhani/Combinatorial-Optimization)
+- [Simplex-from-Scratch](https://github.com/Pegah-Ardehkhani/Simplex-from-Scratch)
+
+
 ## 🛠️ Skills
 
 ### Languages
