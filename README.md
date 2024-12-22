@@ -9,8 +9,8 @@
 
 #### Optimization and Operations Research
 
-- [Multi Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
 - [Optimization Problems and Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
+- [Multi-Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
 - [Combinatorial Optimization](https://github.com/Pegah-Ardehkhani/Combinatorial-Optimization)
 - [Simplex from Scratch](https://github.com/Pegah-Ardehkhani/Simplex-from-Scratch)
 
