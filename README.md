@@ -19,7 +19,7 @@
 - [Shortest Path using Reinforcement Learning](https://github.com/Pegah-Ardehkhani/Shortest-Path-using-Reinforcement-Learning)
 - [Reinforcement Learning Algorithms from Scratch](https://github.com/Pegah-Ardehkhani/Reinforcement-Learning-Algorithms-from-Scratch)
 - [Customer Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
-- [Customer Churn Prediction-and-Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
+- [Customer Churn Prediction and Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
 - [Air Passenger Demand Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
 - [Cancer Patients Survival Analysis](https://github.com/Pegah-Ardehkhani/Cancer-Patients-Survival-Analysis)
 - [Predictive Maintenance Using ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
