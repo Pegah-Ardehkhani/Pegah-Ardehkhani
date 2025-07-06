@@ -10,7 +10,7 @@
 #### Optimization and Operations Research
 
 - [Optimization Problems and Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
-- [Multi Objective Energy Aware Job Shop Scheduling with NSGA-II]()
+- [Multi Objective Energy Aware Job Shop Scheduling with NSGA-II](https://github.com/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II)
 - [Multi-Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
 - [Combinatorial Optimization](https://github.com/Pegah-Ardehkhani/Combinatorial-Optimization)
 - [Simplex from Scratch](https://github.com/Pegah-Ardehkhani/Simplex-from-Scratch)
