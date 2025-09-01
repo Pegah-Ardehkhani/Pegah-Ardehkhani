@@ -9,6 +9,7 @@
 
 #### Optimization and Operations Research
 
+- [Energy Optimization OR and ML](https://github.com/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML)
 - [Optimization Problems and Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
 - [Multi Objective Energy Aware Job Shop Scheduling with NSGA-II](https://github.com/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II)
 - [Multi-Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
@@ -25,6 +26,7 @@
 - [Cancer Patients Survival Analysis](https://github.com/Pegah-Ardehkhani/Cancer-Patients-Survival-Analysis)
 - [Predictive Maintenance Using ML](https://github.com/Pegah-Ardehkhani/Predictive-Maintenance-Using-ML)
 - [Flight Price EDA and Prediction](https://github.com/Pegah-Ardehkhani/Flight-Price-EDA-and-Prediction)
+- [Credit Card Fraud Detection](https://github.com/Pegah-Ardehkhani/Credit-Card-Fraud-Detection)
 - [Corona Virus Forecasting and Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
 - [Emojify Texts](https://github.com/Pegah-Ardehkhani/Emojify-Texts)
 - [Corona Virus Tweets Sentiment Analysis and Prediction](https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction)
