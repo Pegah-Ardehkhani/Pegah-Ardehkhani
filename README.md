@@ -20,6 +20,7 @@
 
 - [Shortest Path using Reinforcement Learning](https://github.com/Pegah-Ardehkhani/Shortest-Path-using-Reinforcement-Learning)
 - [Reinforcement Learning Algorithms from Scratch](https://github.com/Pegah-Ardehkhani/Reinforcement-Learning-Algorithms-from-Scratch)
+- [Supply Chain Late Delivery Risk](https://github.com/Pegah-Ardehkhani/SupplyChain-LateDeliveryRisk)
 - [Customer Segmentation](https://github.com/Pegah-Ardehkhani/Customer-Segmentation)
 - [Customer Churn Prediction and Analysis](https://github.com/Pegah-Ardehkhani/Customer-Churn-Prediction-and-Analysis)
 - [Air Passenger Demand Forecasting](https://github.com/Pegah-Ardehkhani/Air-Passenger-Demand-Forecasting)
