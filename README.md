@@ -31,7 +31,7 @@
 - [Corona Virus Forecasting and Analysis](https://github.com/Pegah-Ardehkhani/Corona-Virus-Forecasting-and-Analysis)
 - [Emojify Texts](https://github.com/Pegah-Ardehkhani/Emojify-Texts)
 - [Corona Virus Tweets Sentiment Analysis and Prediction](https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction)
-- [LogisticRegression From Scratch](https://github.com/Pegah-Ardehkhani/LogisticRegression-From-Scratch)
+- [Logistic Regression From Scratch](https://github.com/Pegah-Ardehkhani/LogisticRegression-From-Scratch)
 
 #### Deep Learning and Neural Networks
 
