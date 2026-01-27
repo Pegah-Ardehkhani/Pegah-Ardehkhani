@@ -9,6 +9,7 @@
 
 #### Optimization and Operations Research
 
+- [Counterfactual Explanations for Logistic Regression](https://github.com/Pegah-Ardehkhani/Counterfactual-LR)
 - [Energy Optimization OR and ML](https://github.com/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML)
 - [Optimization Problems and Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
 - [Multi Objective Energy Aware Job Shop Scheduling with NSGA-II](https://github.com/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II)
