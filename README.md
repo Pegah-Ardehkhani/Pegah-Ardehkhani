@@ -12,7 +12,7 @@
 - [Counterfactual Explanations for Logistic Regression](https://github.com/Pegah-Ardehkhani/Counterfactual-LR)
 - [Energy Optimization OR and ML](https://github.com/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML)
 - [Optimization Problems and Solutions](https://github.com/Pegah-Ardehkhani/Optimization-Problems-and-Solutions)
-- [Multi Objective Energy Aware Job Shop Scheduling with NSGA-II](https://github.com/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II)
+- [Multi-Objective Energy Aware Job Shop Scheduling with NSGA-II](https://github.com/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II)
 - [Multi-Criteria Decision Making](https://github.com/Pegah-Ardehkhani/Multi-Criteria-Decision-Making)
 - [Combinatorial Optimization](https://github.com/Pegah-Ardehkhani/Combinatorial-Optimization)
 - [Simplex from Scratch](https://github.com/Pegah-Ardehkhani/Simplex-from-Scratch)
